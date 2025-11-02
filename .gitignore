@@ -1,5 +1,6 @@
 # LaTeX 临时文件（忽略所有 .aux、.log 等扩展名，无论在哪个文件夹）
 *.aux
+*.toc
 *.log
 *.out
 *.synctex.gz
